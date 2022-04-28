@@ -1,0 +1,15 @@
+C:\Users\Mateus\Desktop\CSHARP_\JogoDeXadrez\JogoDeXadrez\bin\Debug\net6.0\JogoDeXadrez.exe
+C:\Users\Mateus\Desktop\CSHARP_\JogoDeXadrez\JogoDeXadrez\bin\Debug\net6.0\JogoDeXadrez.deps.json
+C:\Users\Mateus\Desktop\CSHARP_\JogoDeXadrez\JogoDeXadrez\bin\Debug\net6.0\JogoDeXadrez.runtimeconfig.json
+C:\Users\Mateus\Desktop\CSHARP_\JogoDeXadrez\JogoDeXadrez\bin\Debug\net6.0\JogoDeXadrez.dll
+C:\Users\Mateus\Desktop\CSHARP_\JogoDeXadrez\JogoDeXadrez\bin\Debug\net6.0\JogoDeXadrez.pdb
+C:\Users\Mateus\Desktop\CSHARP_\JogoDeXadrez\JogoDeXadrez\obj\Debug\net6.0\JogoDeXadrez.csproj.AssemblyReference.cache
+C:\Users\Mateus\Desktop\CSHARP_\JogoDeXadrez\JogoDeXadrez\obj\Debug\net6.0\JogoDeXadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Desktop\CSHARP_\JogoDeXadrez\JogoDeXadrez\obj\Debug\net6.0\JogoDeXadrez.AssemblyInfoInputs.cache
+C:\Users\Mateus\Desktop\CSHARP_\JogoDeXadrez\JogoDeXadrez\obj\Debug\net6.0\JogoDeXadrez.AssemblyInfo.cs
+C:\Users\Mateus\Desktop\CSHARP_\JogoDeXadrez\JogoDeXadrez\obj\Debug\net6.0\JogoDeXadrez.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Desktop\CSHARP_\JogoDeXadrez\JogoDeXadrez\obj\Debug\net6.0\JogoDeXadrez.dll
+C:\Users\Mateus\Desktop\CSHARP_\JogoDeXadrez\JogoDeXadrez\obj\Debug\net6.0\refint\JogoDeXadrez.dll
+C:\Users\Mateus\Desktop\CSHARP_\JogoDeXadrez\JogoDeXadrez\obj\Debug\net6.0\JogoDeXadrez.pdb
+C:\Users\Mateus\Desktop\CSHARP_\JogoDeXadrez\JogoDeXadrez\obj\Debug\net6.0\JogoDeXadrez.genruntimeconfig.cache
+C:\Users\Mateus\Desktop\CSHARP_\JogoDeXadrez\JogoDeXadrez\obj\Debug\net6.0\ref\JogoDeXadrez.dll
