@@ -1,5 +1,6 @@
 using System;
 using tabuleiro;
+using xadrez_console;
 
 namespace xadrez{
     class PosicaoXadrez{
@@ -13,6 +14,7 @@ namespace xadrez{
         }
 
         public Posicao toPosicao(){
+            //esse 8 não é uma boa prática
             return new Posicao(8-Linha, Coluna - 'a');
         }
 

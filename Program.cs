@@ -5,8 +5,9 @@ using tabuleiro;
 namespace xadrez_console{
     class Program{
         static void Main(string[] args){
+            PartidaDeXadrez partida = new PartidaDeXadrez();
+
             try{
-                PartidaDeXadrez partida = new PartidaDeXadrez();
                 
                 while(!partida.Terminada){
                     try{
@@ -41,6 +42,9 @@ namespace xadrez_console{
             catch(TabuleiroException e){
                 System.Console.WriteLine(e.Message);
             }
+
+            Console.Clear();
+            Tela.imprimirPartida(partida);
         }
     }
 }
