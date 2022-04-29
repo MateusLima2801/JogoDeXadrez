@@ -13,7 +13,7 @@ namespace xadrez{
         }
 
         public Posicao toPosicao(){
-            return new Posicao(Coluna - 'a', 8-Linha);
+            return new Posicao(8-Linha, Coluna - 'a');
         }
 
         public override string ToString()
